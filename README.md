@@ -58,13 +58,13 @@ EasySleep/
 ├── package.json                # Fichier de configuration du projet
 └── README.md                   # Documentation du projet
 
-## Comment utiliser
+## Comment l'utiliser
 
 1. Ouvrez l'application EasySleep sur votre téléphone ou émulateur.
 2. Cliquez sur le bouton Démarrer le suivi du sommeil pour ajouter une heure de sommeil.
 3. Le nombre d'heures de sommeil s'affiche dynamiquement à l'écran.
 
-## Points clés :
+## Point clès
 - Le fichier présente les fonctionnalités de base de l'application.
 - Il guide l'utilisateur à travers l'installation, l'utilisation, et la structure du projet.
 
