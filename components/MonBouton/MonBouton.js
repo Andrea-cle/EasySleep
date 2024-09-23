@@ -1,5 +1,6 @@
 import React from "react";
 import { TouchableOpacity, Text, StyleSheet } from "react-native"; //Import Composants nécessaires depuis React Native
+import styles from "./StyleMonBouton";
 
 // Création d'un composant de bouton personnalisé
 // Le composant MonBouton prend 2 props : title (le tecte du bouton) et onPress (la fonction à exécuter lors du cick)
@@ -14,3 +15,5 @@ const MonBouton = ({ title, onPress }) => {
     </TouchableOpacity>
   );
 };
+
+export default MonBouton;

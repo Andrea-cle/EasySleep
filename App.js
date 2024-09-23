@@ -1,6 +1,7 @@
 import React, { useState } from "react"; //Importation de React et du hook useState
 import { StyleSheet, Text, View } from "react-native"; //Importation des composants nécessaires
-import MonBouton from "./components/MonBouton.js"; // Importation du module Button
+import MonBouton from "./components/MonBouton/MonBouton.js"; // Importation du module bouton
+import globalStyles from "./styles/globalStyles";
 
 export default function App() {
   //Etat pour stocker le nombre d'heures de sommeil
