@@ -22,7 +22,7 @@ Suivez ces étapes pour installer et exécuter l'application sur votre machine l
 
 1. Clonez le dépôt :
 
-```bash
+````bash
 git clone [https://github.com/ton-utilisateur/easysleep.git](https://github.com/Andrea-cle/EasySleep)
 
 2. Accédez au dossier du projet :
@@ -69,3 +69,4 @@ EasySleep/
 - Il guide l'utilisateur à travers l'installation, l'utilisation, et la structure du projet.
 
 
+````
